@@ -1,0 +1,25 @@
+# Compiled Java bytecode
+*.class
+
+# Packaged Java artifacts
+*.jar
+*.war
+*.ear
+
+# Common Java build output
+bin/
+build/
+out/
+target/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+
+# Local tooling metadata
+.qodo/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
